@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "title": "First Frost",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Vidal Blanc · Ice Wine. Luminous and delicately balanced, with a lingering sweetness and the crystalline clarity of a winter morning.",
+      "keywords": "Château Gnomeville estate wines ice wine vidal blanc first frost"
+    },
+    {
+      "title": "Mayor’s Reserve",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Cabernet Sauvignon–Merlot. A stately, richly layered blend with dark fruit, graceful structure, and a finish of considerable distinction.",
+      "keywords": "Château Gnomeville estate wines mayor reserve cabernet sauvignon merlot"
+    },
+    {
+      "title": "Plausible Deniability",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Pinot Noir. Silken and quietly expressive, with elegant red-fruit notes and an unusually discreet finish.",
+      "keywords": "Château Gnomeville estate wines pinot noir plausible deniability"
+    },
+    {
+      "title": "The Red Tape",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Cabernet Franc. Precise, beautifully structured, and rewarding in its complexity. A wine that takes its own time.",
+      "keywords": "Château Gnomeville estate wines red tape cabernet franc"
+    },
+    {
+      "title": "Midnight in Gnomeville",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Late Harvest Red. Deep garnet, richly textured, and made for the hours when conversation grows quiet.",
+      "keywords": "Château Gnomeville estate wines late harvest red midnight"
+    },
+    {
+      "title": "The Blue Hour",
+      "url": "/chateau-gnomeville/#wines",
+      "type": "Wines",
+      "icon": "🍷",
+      "description": "Blueberry Dessert Wine · 375 mL. An intimate dessert wine of deep berry character, made to accompany the gentle last light of evening.",
+      "keywords": "Château Gnomeville estate wines blueberry dessert wine blue hour 375 ml"
+    }
+  ]
+}
